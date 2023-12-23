@@ -1,4 +1,4 @@
-# TITLE PROYECT
+# Linear Regression
 
 ## Introduction:
 
